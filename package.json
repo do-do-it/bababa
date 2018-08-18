@@ -1,0 +1,9 @@
+{
+  "name": "bababa",
+  "version": "1.0.0",
+  "description": "bababa wxApp",
+  "main": "index.js",
+  "repository": "git@github.com:do-do-it/bababa.git",
+  "author": "张敏 <zm@duiba.com.cn>",
+  "license": "MIT"
+}
